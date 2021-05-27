@@ -1,1 +1,26 @@
-
+| Questions |
+| - |
+| [City_Tour](https://github.com/XXDIL/IB-Prep/blob/main/Math/City_Tour) |
+| [Numbers_of_length_N_and_value_less_than_K](https://github.com/XXDIL/IB-Prep/blob/main/Math/Numbers_of_length_N_and_value_less_than_K) |
+| [Distribute_in_Circle](https://github.com/XXDIL/IB-Prep/blob/main/Math/Distribute_in_Circle) |
+| [Palindrome_Integer](https://github.com/XXDIL/IB-Prep/blob/main/Math/Palindrome_Integer) |
+| [Excel_Column_Number](https://github.com/XXDIL/IB-Prep/blob/main/Math/Excel_Column_Number) |
+| [Power_Of_Two_Integers](https://github.com/XXDIL/IB-Prep/blob/main/Math/Power_Of_Two_Integers) |
+| [Excel_Column_Title](https://github.com/XXDIL/IB-Prep/blob/main/Math/Excel_Column_Title) |
+| [Prime_Sum](https://github.com/XXDIL/IB-Prep/blob/main/Math/Prime_Sum) |
+| [Find_Nth_Fibonacci](https://github.com/XXDIL/IB-Prep/blob/main/Math/Find_Nth_Fibonacci) |
+| [Rearrange_Array](https://github.com/XXDIL/IB-Prep/blob/main/Math/Rearrange_Array) |
+| [FizzBuzz](https://github.com/XXDIL/IB-Prep/blob/main/Math/FizzBuzz) |
+| [Reverse_integer](https://github.com/XXDIL/IB-Prep/blob/main/Math/Reverse_integer) |
+| [Greatest_Common_Divisor](https://github.com/XXDIL/IB-Prep/blob/main/Math/Greatest_Common_Divisor) |
+| [Sorted_Permutation_Rank](https://github.com/XXDIL/IB-Prep/blob/main/Math/Sorted_Permutation_Rank) |
+| [Grid_Unique_Paths](https://github.com/XXDIL/IB-Prep/blob/main/Math/Grid_Unique_Paths) |
+| [Sorted_Permutation_Rank_with_Repeats](https://github.com/XXDIL/IB-Prep/blob/main/Math/Sorted_Permutation_Rank_with_Repeats) |
+| [Is_Rectangle](https://github.com/XXDIL/IB-Prep/blob/main/Math/Is_Rectangle) |
+| [Step_by_Step](https://github.com/XXDIL/IB-Prep/blob/main/Math/Step_by_Step) |
+| [Largest_Coprime_Divisor](https://github.com/XXDIL/IB-Prep/blob/main/Math/Largest_Coprime_Divisor) |
+| [Sum_of_pairwise_Hamming_Distance](https://github.com/XXDIL/IB-Prep/blob/main/Math/Sum_of_pairwise_Hamming_Distance) |
+| [Next_Similar_Number](https://github.com/XXDIL/IB-Prep/blob/main/Math/Next_Similar_Number) |
+| [Total_Moves_For_Bishop](https://github.com/XXDIL/IB-Prep/blob/main/Math/Total_Moves_For_Bishop) |
+| [Next_Smallest_Palindrome](https://github.com/XXDIL/IB-Prep/blob/main/Math/Next_Smallest_Palindrome) |
+| [Trailing_Zeros_in_Factorial](https://github.com/XXDIL/IB-Prep/blob/main/Math/Trailing_Zeros_in_Factorial) |
