@@ -1,11 +1,13 @@
-Count_Total_Set_Bits.cpp
-Different_Bits_Sum_Pairwise.cpp
-Divide_Integers.cpp
-Min_XOR_value.cpp
-Number_of_1_Bits.cpp
-Palindromic_Binary_Representation.py
-Reverse_Bits.cpp
-Single_Number.cpp
-Single_Number_II.cpp
-Trailing_Zeroes.cpp
-XOR-ing_the_Subarrays.cpp
+| Questions |
+| - |
+| [Count_Total_Set_Bits](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Count_Total_Set_Bits.cpp) |
+| [Different_Bits_Sum_Pairwise](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Different_Bits_Sum_Pairwise.cpp) |
+| [Divide_Integers](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Divide_Integers.cpp) |
+| [Min_XOR_value](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Min_XOR_value.cpp) |
+| [Number_of_1_Bits](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Number_of_1_Bits.cpp) |
+| [Palindromic_Binary_Representation.py](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Palindromic_Binary_Representation.py) |
+| [Reverse_Bits](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Reverse_Bits.cpp) |
+| [Single_Number](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Single_Number.cpp) |
+| [Single_Number_II](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Single_Number_II.cpp) |
+| [Trailing_Zeroes](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Trailing_Zeroes.cpp) |
+| [XOR-ing_the_Subarrays](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/XOR-ing_the_Subarrays.cpp) |
