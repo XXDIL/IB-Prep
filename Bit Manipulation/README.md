@@ -1,0 +1,11 @@
+Count_Total_Set_Bits.cpp
+Different_Bits_Sum_Pairwise.cpp
+Divide_Integers.cpp
+Min_XOR_value.cpp
+Number_of_1_Bits.cpp
+Palindromic_Binary_Representation.py
+Reverse_Bits.cpp
+Single_Number.cpp
+Single_Number_II.cpp
+Trailing_Zeroes.cpp
+XOR-ing_the_Subarrays.cpp
