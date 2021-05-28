@@ -5,7 +5,7 @@
 | [Divide_Integers](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Divide_Integers.cpp) |
 | [Min_XOR_value](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Min_XOR_value.cpp) |
 | [Number_of_1_Bits](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Number_of_1_Bits.cpp) |
-| [Palindromic_Binary_Representation.py](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Palindromic_Binary_Representation.py) |
+| [Palindromic_Binary_Representation](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Palindromic_Binary_Representation.py) |
 | [Reverse_Bits](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Reverse_Bits.cpp) |
 | [Single_Number](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Single_Number.cpp) |
 | [Single_Number_II](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation/Single_Number_II.cpp) |
