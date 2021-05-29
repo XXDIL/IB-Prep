@@ -3,14 +3,14 @@
 
 | Level - 2 |
 | - |
-| [Arrays](https://github.com/XXDIL/IB-Prep/tree/main/) |
-| [Math](https://github.com/XXDIL/IB-Prep/tree/main/) |
+| [Arrays](https://github.com/XXDIL/IB-Prep/tree/main/Array) |
+| [Math](https://github.com/XXDIL/IB-Prep/tree/main/Math) |
 
 | Level - 3 |
 | - |
 | [Binary Search](https://github.com/XXDIL/IB-Prep/tree/main/) |
 | [Strings](https://github.com/XXDIL/IB-Prep/tree/main/) |
-| [Bit Manipulation](https://github.com/XXDIL/IB-Prep/tree/main/) |
+| [Bit Manipulation](https://github.com/XXDIL/IB-Prep/tree/main/Bit%20Manipulation) |
 | [Two Pointers](https://github.com/XXDIL/IB-Prep/tree/main/) |
 
 | Level - 4 |
