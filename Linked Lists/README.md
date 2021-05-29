@@ -1,19 +1,21 @@
-Add_Two_Numbers_as_Lists.cpp
-Even_Reverse.cpp
-Insertion_Sort_List.cpp
-K_reverse_linked_list.cpp
-Kth_Node_From_Middle.cpp
-List_Cycle.cpp
-Merge_Two_Sorted_Lists.cpp
-Palindrome_List.cpp
-Partition_List.cpp
-Remove_Duplicates_from_Sorted_List.cpp
-Remove_Duplicates_from_Sorted_List_II.cpp
-Remove_Nth_Node_from_List_End.cpp
-Reorder_List.cpp
-Reverse_Alternate_K_Nodes.cpp
-Reverse_Link_List_II.cpp
-Rotate_List.cpp
-Sort_Binary_Linked_List.cpp
-Sort_List.cpp
-Swap_List_Nodes_in_pairs.cpp
+| Questions |
+| - |
+| [Add_Two_Numbers_as_Lists](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Add_Two_Numbers_as_Lists.cpp) |
+| [Even_Reverse](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Even_Reverse.cpp) |
+| [Insertion_Sort_List](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Insertion_Sort_List.cpp) |
+| [K_reverse_linked_list](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/K_reverse_linked_list.cpp) |
+| [Kth_Node_From_Middle](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Kth_Node_From_Middle.cpp) |
+| [List_Cycle](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/List_Cycle.cpp) |
+| [Merge_Two_Sorted_Lists](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Merge_Two_Sorted_Lists.cpp) |
+| [Palindrome_List](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Palindrome_List.cpp) |
+| [Partition_List](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Partition_List.cpp) |
+| [Remove_Duplicates_from_Sorted_List](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Remove_Duplicates_from_Sorted_List.cpp) |
+| [Remove_Duplicates_from_Sorted_List_II](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Remove_Duplicates_from_Sorted_List_II.cpp) |
+| [Remove_Nth_Node_from_List_End](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Remove_Nth_Node_from_List_End.cpp) |
+| [Reorder_List](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Reorder_List.cpp) |
+| [Reverse_Alternate_K_Nodes](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Reverse_Alternate_K_Nodes.cpp) |
+| [Reverse_Link_List_II](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Reverse_Link_List_II.cpp) |
+| [Rotate_List](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Rotate_List.cpp) |
+| [Sort_Binary_Linked_List](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Sort_Binary_Linked_List.cpp) |
+| [Sort_List](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Sort_List.cpp) |
+| [Swap_List_Nodes_in_pairs](https://github.com/XXDIL/IB-Prep/blob/main/Linked%20Lists/Swap_List_Nodes_in_pairs.cpp) |
