@@ -1,17 +1,19 @@
-3_Sum.cpp
-3_Sum_Zero.cpp
-Array_3_Pointers.cpp
-Container_With_Most_Water.cpp
-Counting_Subarrays.cpp
-Counting_Triangles.cpp
-Diffk.cpp
-Intersection_Of_Sorted_Arrays.cpp
-Max_Continuous_Series_of_1s.cpp
-Maximum_Ones_After_Modification.cpp
-Merge_Two_Sorted_Lists_II.cpp
-Pair_With_Given_Difference.cpp
-Remove_Duplicates_from_Sorted_Array.cpp
-Remove_Duplicates_from_Sorted_Array_II.cpp
-Remove_Element_from_Array.cpp
-Sort_by_Color.cpp
-Subarrays_with_distinct_integers.cpp
+| Questions |
+| - |
+| [3_Sum](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/3_Sum.cpp) |
+| [3_Sum_Zero](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/3_Sum_Zero.cpp) |
+| [Array_3_Pointers](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Array_3_Pointers.cpp) |
+| [Container_With_Most_Water](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Container_With_Most_Water.cpp) |
+| [Counting_Subarrays](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Counting_Subarrays.cpp) |
+| [Counting_Triangles](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Counting_Triangles.cpp) |
+| [Diffk](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Diffk.cpp) |
+| [Intersection_Of_Sorted_Arrays](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Intersection_Of_Sorted_Arrays.cpp) |
+| [Max_Continuous_Series_of_1s](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Max_Continuous_Series_of_1s.cpp) |
+| [Maximum_Ones_After_Modification](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Maximum_Ones_After_Modification.cpp) |
+| [Merge_Two_Sorted_Lists_II](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Merge_Two_Sorted_Lists_II.cpp) |
+| [Pair_With_Given_Difference](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Pair_With_Given_Difference.cpp) |
+| [Remove_Duplicates_from_Sorted_Array](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Remove_Duplicates_from_Sorted_Array.cpp) |
+| [Remove_Duplicates_from_Sorted_Array_II](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Remove_Duplicates_from_Sorted_Array_II.cpp) |
+| [Remove_Element_from_Array](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Remove_Element_from_Array.cpp) |
+| [Sort_by_Color](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Sort_by_Color.cpp) |
+| [Subarrays_with_distinct_integers](https://github.com/XXDIL/IB-Prep/blob/main/Two%20Pointers/Subarrays_with_distinct_integers.cpp) |
