@@ -1,1 +1,25 @@
-
+| Questions |
+| - |
+| [Colorful_Number](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Colorful_Number.cpp) |
+| [Largest_Continuous_Sequence_Zero_Sum](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Largest_Continuous_Sequence_Zero_Sum.cpp) |
+| [2_Sum](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/2_Sum.cpp) |
+| [4_Sum](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/4_Sum.cpp) |
+| [Valid_Sudoku](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Valid_Sudoku.cpp) |
+| [Diffk_II](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Diffk_II.cpp) |
+| [Pairs_With_Given_Xor](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Pairs_With_Given_Xor.cpp) |
+| [Anagrams](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Anagrams.cpp) |
+| [Equal](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Equal.cpp) |
+| [Copy_List](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Copy_List.cpp) |
+| [Check_Palindrome](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Check_Palindrome.cpp) |
+| [Fraction](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Fraction.cpp) |
+| [Points_on_the_Straight_Line](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Points_on_the_Straight_Line.cpp) |
+| [An_Increment_Problem](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/An_Increment_Problem.cpp) |
+| [Subarray_with_given_XOR](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Subarray_with_given_XOR.cpp) |
+| [Two_out_of_Three](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Two_out_of_Three.cpp) |
+| [Substring_Concatenation](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Substring_Concatenation.cpp) |
+| [Subarray_with_B_odd_numbers](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Subarray_with_B_odd_numbers.cpp) |
+| [Window_String](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Window_String.cpp) |
+| [Longest_Substring_Without_Repeat](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Longest_Substring_Without_Repeat.cpp) |
+| [First_Repeating_element](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/First_Repeating_element.cpp) |
+| [Longest_Subarray_Length](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Longest_Subarray_Length.cpp) |
+| [Subarray_with_equal_occurences](https://github.com/XXDIL/IB-Prep/tree/main/Hashing/Subarray_with_equal_occurences.cpp) |
