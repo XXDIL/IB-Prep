@@ -1,0 +1,17 @@
+| Questions |
+| - |
+| [Combinations](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/Combinations.cpp) |
+| [Combination_Sum](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/Combination_Sum.cpp) |
+| [Combination_Sum_II](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/Combination_Sum_II.cpp) |
+| [Generate_all_Parentheses_II](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/Generate_all_Parentheses_II.cpp) |
+| [Gray_Code](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/Gray_Code.cpp) |
+| [Kth_Permutation_Sequence](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/Kth_Permutation_Sequence.cpp) |
+| [Letter_Phone](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/Letter_Phone.cpp) |
+| [Maximal_String](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/Maximal_String.cpp) |
+| [Modular_Expression](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/Modular_Expression.cpp) |
+| [NQueens](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/NQueens.cpp) |
+| [Palindrome_Partitioning](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/Palindrome_Partitioning.cpp) |
+| [Permutations](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/Permutations.cpp) |
+| [Subset](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/Subset.cpp) |
+| [Subsets_II](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/Subsets_II.cpp) |
+| [Sudoku](https://github.com/XXDIL/IB-Prep/tree/main/Backtracking/Sudoku.cpp) |
