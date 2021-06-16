@@ -1,0 +1,12 @@
+| Questions |
+| - |
+| [Ways_to_form_Max_Heap](https://github.com/XXDIL/IB-Prep/tree/main/Heaps%20And%20Maps/Ways_to_form_Max_Heap.cpp) |
+| [N_max_pair_combinations](https://github.com/XXDIL/IB-Prep/tree/main/Heaps%20And%20Maps/N_max_pair_combinations.cpp) |
+| [K_Largest_Elements](https://github.com/XXDIL/IB-Prep/tree/main/Heaps%20And%20Maps/K_Largest_Elements.cpp) |
+| [Profit_Maximisation](https://github.com/XXDIL/IB-Prep/tree/main/Heaps%20And%20Maps/Profit_Maximisation.cpp) |
+| [Magician_and_Chocolates](https://github.com/XXDIL/IB-Prep/tree/main/Heaps%20And%20Maps/Magician_and_Chocolates.cpp) |
+| [Maximum_Sum_Combinations](https://github.com/XXDIL/IB-Prep/tree/main/Heaps%20And%20Maps/Maximum_Sum_Combinations.cpp) |
+| [Merge_K_Sorted_Lists](https://github.com/XXDIL/IB-Prep/tree/main/Heaps%20And%20Maps/Merge_K_Sorted_Lists.cpp) |
+| [Distinct_Numbers_in_Window](https://github.com/XXDIL/IB-Prep/tree/main/Heaps%20And%20Maps/Distinct_Numbers_in_Window.cpp) |
+| [LRU_Cache](https://github.com/XXDIL/IB-Prep/tree/main/Heaps%20And%20Maps/LRU_Cache.cpp) |
+| [Merge_K_sorted_arrays](https://github.com/XXDIL/IB-Prep/tree/main/Heaps%20And%20Maps/Merge_K_sorted_arrays.cpp) |
