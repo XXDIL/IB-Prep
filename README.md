@@ -26,7 +26,7 @@
 | Level - 6 |
 | - |
 | [Heaps And Maps](https://github.com/XXDIL/IB-Prep/tree/main/Heaps%20And%20Maps) |
-| [Tree Data Structure](https://github.com/XXDIL/IB-Prep/tree/main/Tree%20Data%20Structure) |
+| [Tree Data Structure](https://github.com/XXDIL/IB-Prep/tree/main/Trees) |
 
 | Level - 7 |
 | - |
