@@ -1,0 +1,12 @@
+| Questions |
+| - |
+| [Assign_Mice_to_Holes](https://github.com/XXDIL/IB-Prep/tree/main/Greedy/Assign_Mice_to_Holes.cpp) |
+| [Bulbs](https://github.com/XXDIL/IB-Prep/tree/main/Greedy/Bulbs.cpp) |
+| [Disjoint_Intervals](https://github.com/XXDIL/IB-Prep/tree/main/Greedy/Disjoint_Intervals.cpp) |
+| [Distribute_Candy](https://github.com/XXDIL/IB-Prep/tree/main/Greedy/Distribute_Candy.cpp) |
+| [Gas_Station](https://github.com/XXDIL/IB-Prep/tree/main/Greedy/Gas_Station.cpp) |
+| [Highest_Product](https://github.com/XXDIL/IB-Prep/tree/main/Greedy/Highest_Product.cpp) |
+| [Largest_Permutation](https://github.com/XXDIL/IB-Prep/tree/main/Greedy/Largest_Permutation.cpp) |
+| [Majority_Element](https://github.com/XXDIL/IB-Prep/tree/main/Greedy/Majority_Element.cpp) |
+| [Meeting_rooms](https://github.com/XXDIL/IB-Prep/tree/main/Greedy/Meeting_rooms.cpp) |
+| [Seats](https://github.com/XXDIL/IB-Prep/tree/main/Greedy/Seats.cpp) |
