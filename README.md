@@ -30,9 +30,9 @@
 
 | Level - 7 |
 | - |
-| [Dynamic Programming](https://github.com/XXDIL/IB-Prep/tree/main/) |
+| [Dynamic Programming (WIP)](https://github.com/XXDIL/IB-Prep/tree/main/) |
 | [Greedy Algorithm](https://github.com/XXDIL/IB-Prep/tree/main/Greedy) |
 
 | Level - 8 |
 | - |
-| [Graph Data Structure & Algorithms](https://github.com/XXDIL/IB-Prep/tree/main/) | 
+| [Graph Data Structure & Algorithms (WIP)](https://github.com/XXDIL/IB-Prep/tree/main/) | 
